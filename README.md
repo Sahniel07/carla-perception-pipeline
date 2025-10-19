@@ -32,7 +32,18 @@ This project implements a complete perception pipeline for autonomous vehicles u
 
 ## Status
 
-**Currently in Development**
+## Current Progress
+
+**Day 1 Complete** (Oct 20, 2025)
+- Set up PyTorch object detection pipeline
+- Implemented YOLOv5 integration
+- Tested detection on sample images
+- Created modular code structure
+
+**Next Steps**
+- Connect to CARLA simulator
+- Implement real-time detection
+- Add semantic segmentation
 
 This project is being actively developed as part of my Bachelor thesis at TH Ingolstadt on "Domain Adaptation from OpenStreetMap to CARLA for Autonomous Driving".
 
