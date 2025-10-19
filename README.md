@@ -11,7 +11,7 @@ This project implements a complete perception pipeline for autonomous vehicles u
 
 ## Technologies Used
 
-- **Python 3.8+**
+- **Python 3.12.7**
 - **PyTorch** - Deep learning framework
 - **CARLA Simulator** - Autonomous driving simulation
 - **OpenCV** - Computer vision library
