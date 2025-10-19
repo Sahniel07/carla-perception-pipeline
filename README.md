@@ -34,7 +34,7 @@ This project implements a complete perception pipeline for autonomous vehicles u
 
 ## Current Progress
 
-**Day 1 Complete** (Oct 20, 2025)
+**Day 1 Complete** (Oct 19, 2025)
 - Set up PyTorch object detection pipeline
 - Implemented YOLOv5 integration
 - Tested detection on sample images
